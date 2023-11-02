@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "Jaymeid/vatcal"
+ registry = "jaymeid/vatcal"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
